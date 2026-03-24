@@ -1,0 +1,14 @@
+# Frontend
+mangaforge-frontend/node_modules/
+mangaforge-frontend/.next/
+mangaforge-frontend/.env.local
+
+# Backend
+mangaforge-backend/__pycache__/
+mangaforge-backend/*.pyc
+mangaforge-backend/*.log
+mangaforge-backend/venv/
+mangaforge-backend/.env
+
+# OS
+.DS_Store

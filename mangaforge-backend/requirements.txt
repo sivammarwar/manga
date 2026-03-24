@@ -1,0 +1,14 @@
+# mangaforge-backend/requirements.txt
+# All packages needed for the fully cloud pipeline
+
+# Core
+google-genai
+supabase
+python-dotenv
+
+# Image generation (HF API + R2 upload)
+requests
+boto3
+
+# Utilities
+Pillow
